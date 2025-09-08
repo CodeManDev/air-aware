@@ -11,7 +11,7 @@ The aim of this project is to display the current air quality on a given place r
 
 This is a project to study Google Maps APIs and how to work with CesiumJs viewer.
 
-![Here is a post about this project om my medium](https://medium.com/@Sanscripter/teaching-myself-cesiumjs-and-air-quality-by-building-air-aware-1fec2ed3a14e)
+![Here is a post about this project on my medium](https://medium.com/@Sanscripter/teaching-myself-cesiumjs-and-air-quality-by-building-air-aware-1fec2ed3a14e)
 
 ## Development
 
